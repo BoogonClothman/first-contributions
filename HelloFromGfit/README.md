@@ -2,12 +2,12 @@
 
 > Talk is cheap. Show me the code. **Then go for it.**
 
-诸位好，我是 gFIT（[@lllxxxxxlll](https://github.com/lllxxxxxlll)），小红书 RedKV 数据存储中心实习生，2026 秋招 Agent 方向。
+诸位好，我是 gFIT（[@lllxxxxxlll](https://github.com/lllxxxxxlll)），23级计算机专业，专注infra & agent。
 **在 infra 中懂 Agent，在 Agent 中懂 infra。**
 
 ## 📖 给新入门同学的指南
 
-我把这几天**从零搭建 Profile README → 搞个人网站 → 提交第一次 PR** 走过的所有步骤、踩过的坑、排查的思路整理成了一份**完整可独立阅读的上手指南**，就在同目录下：
+我把今天以及之前困惑的**从零搭建 Profile README → 搞个人网站 → 提交第一次 PR** 走过的所有步骤、踩过的坑、排查的思路整理成了一份**完整可独立阅读的上手指南**，就在同目录下：
 
 👉 **[GUIDE-for-newcomers.md —— 新手快速上手 GitHub + Profile README + 第一次提 PR 指南](./GUIDE-for-newcomers.md)**
 
