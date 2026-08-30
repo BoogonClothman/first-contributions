@@ -1,7 +1,6 @@
 # 新手快速上手 GitHub + Profile README + 第一次提 PR 指南
 
 > 作者：gFIT ([@lllxxxxxlll](https://github.com/lllxxxxxlll))
-> 原始构建会话记录：[TRAE 共享链接](https://share.traecontent.cn/share/EQI.W7J_EDI7J9?enter_from=mobile)
 > 适用对象：刚加入 openHIT-Lab、不太熟悉 GitHub 规范、想尽快把 profile 和 first PR 跑通的同学。
 
 ---
