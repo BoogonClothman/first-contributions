@@ -4,6 +4,24 @@
 
 诸位好，我是 gFIT（[@lllxxxxxlll](https://github.com/lllxxxxxlll)），AI Agent Engineer，专注把 AI Agent 技术应用到分布式系统的根因分析自动化 —— **在 infra 中懂 Agent，在 Agent 中懂 infra。**
 
+---
+
+## 📝 完整实战指南（本项目构建全过程）
+
+> **推荐新入门同学对照看：** 这份会话记录就是我**从零开始美化 Profile README → 做个人网站 → 到 openHIT 提交第一次 PR** 的完整过程，每一步为什么做、踩了什么坑、怎么排查全记录了。
+
+🔗 **[TRAE 会话记录：从 Profile README 美化到 First Contribution](https://share.traecontent.cn/share/EQI.W7J_EDI7J9?enter_from=mobile)**
+
+会话里覆盖的内容（对照这份记录，你也能走完自己的第一次 PR）：
+
+1. **同名仓库原理**：为什么 `<用户名>/<用户名>` 能渲染到主页？为什么 `<用户名>.github.io` 能做个人网站？—— GitHub 两条独立的 convention，以及 public/private 对可见性的影响。
+2. **Profile README 美化实操**：Banner 配色、双主题适配（dark/light mode）、徽章方案选型（为什么放弃 Top Languages 动态卡改用 shields.io 静态徽章）、贪吃蛇 Actions。
+3. **GitHub Actions 是什么**：和公司 pipeline 类比（触发 → 构建 → 部署三段式），第一次写 `.github/workflows/xxx.yml` 时要注意的 `on:` / `permissions:` / `uses:` 三件事。
+4. **第一次提 PR 的完整流程**：fork 上游 → 克隆自己 fork → 建分支 → 改内容 → push → 开 PR → 等 review。
+5. **沙箱 & CI 中的鉴权机制**：为什么应用层 OAuth token 不能直接给 `git push` 用？device flow 登录 gh CLI 的实操、凭据隔离的真实含义。
+
+---
+
 ## 给新入门同学的建议 ✨
 
 1. **尽早 fork 一个 first-contribution 仓库走一遍完整流程** —— 比读十遍教程都有效。不知道怎么写就直接把需求丢给 AI，但一定要打开 diff 看一眼 AI 到底改了什么。
